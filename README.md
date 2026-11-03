@@ -26,4 +26,7 @@ Butuh Google Chrome terpasang. Selenium 4 mengunduh chromedriver otomatis.
 ## Anggota Kelompok
 | Nama | NIM |
 |------|-----|
-|      |     |
+| Mohammad Fatih Mubarok | 24090002 |
+| Eka Dzakwan Venarindra | 24090009 |
+| Dimas Sahputra | 24090016 |
+| Nagata Darmawan | 24090032 |
