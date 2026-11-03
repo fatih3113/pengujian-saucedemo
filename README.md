@@ -23,7 +23,7 @@ HEADLESS=1 pytest              # tanpa jendela browser (Mac/Linux)
 ```
 Butuh Google Chrome terpasang. Selenium 4 mengunduh chromedriver otomatis.
 
-## Anggota Kelompok
+## Anggota Kelompok 2 Capstone (Sistem Manajemen Distribusi MBG)
 | Nama | NIM |
 |------|-----|
 | Mohammad Fatih Mubarok | 24090002 |
